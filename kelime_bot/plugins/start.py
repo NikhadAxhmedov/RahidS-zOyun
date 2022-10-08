@@ -11,22 +11,22 @@ from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, Message
 
 keyboard = InlineKeyboardMarkup([
     [
-        InlineKeyboardButton("➕ Qrupuna əlavə et ➕", url=f"http://t.me/Rahid_Word_Bot?startgroup=new")
+        InlineKeyboardButton("➕ ǫʀᴜᴘᴜɴᴀ əʟᴀᴠə ᴇᴛ  ➕", url=f"http://t.me/PoseidonGameBot?startgroup=new")
     ],
     [
-        InlineKeyboardButton(" Sahib 🇦🇿 ", url="t.me/Rahid_2003"),
-        InlineKeyboardButton("Digər Botlar 🤖", url="t.me/Rahid_44"),
+        InlineKeyboardButton(" sᴀʜɪ̇ʙ 👨‍💻 ", url="t.me/Nixhadj"),
+        InlineKeyboardButton("ʙʟᴏɢ 🐊", url="t.me/Nixhadx"),
     ]
 ])
 
 
 START = """
-**🔮 Salam, bu bot ilə qrupda vaxtınızı maraqlı keçirə bilərsiniz🥳**
+**🔮 sᴀʟᴀᴍ, ʙᴜ ʙᴏᴛ ɪ̇ʟə ǫʀᴜᴘᴅᴀ ᴠᴀxᴛıɴıᴢı ᴍᴀʀᴀǫʟı ᴋᴇçɪ̇ʀə ʙɪ̇ʟəʀsɪ̇ɴɪ̇ᴢ🥳**
 
-➤ Məlumat üçün 👉 /help üzərinə klikləyin əmrlər asan və sadədir ✔️
+➤ ᴍəʟᴜᴍᴀᴛ üçüɴ 👉 /ʜᴇʟᴘ üᴢəʀɪ̇ɴə ᴋʟɪ̇ᴋʟəʏɪ̇ɴ əᴍʀʟəʀ ᴀsᴀɴ ᴠə sᴀᴅəᴅɪ̇ʀ ✔️
 """
 
-HELP = """
+ʜᴇʟᴘ = """
 **ℹ️ Əmrlər menyusu**
 
 
